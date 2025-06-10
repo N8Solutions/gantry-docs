@@ -2,18 +2,18 @@
 
 # Gantry Documentation
 
-This repository contains the source of the [Gantry](https://github.com/gantry/gantry5) documentation, currently accessible at [http://docs.gantry.org](http://docs.gantry.org).
+This repository contains the source of the [Gantry](https://github.com/gantry/gantry5) documentation, currently accessible at [https://gantry-docs.n8solutions.org](https://gantry-docs.n8solutions.org).
 
-The documentation is contained in [Pages/](Pages) and is structured in folders (chapters), exactly as you see them on the main website. The entirety of the repo found here is intended to act as the `user/` folder in a [Grav](http://getgrav.org) install. This repo contains themes, configuration files, and settings that enable the documentation to be presented in the way they do on [the documentation site](http://docs.gantry.org).
+The documentation is contained in [Pages/](Pages) and is structured in folders (chapters), exactly as you see them on the main website. The entirety of the repo found here is intended to act as the `user/` folder in a [Grav](http://getgrav.org) install. This repo contains themes, configuration files, and settings that enable the documentation to be presented in the way they do on [the documentation site](https://gantry-docs.n8solutions.org).
 
 You can read all of the documentation within (as it's just in plain text files) marked up with [Markdown](http://daringfireball.net/projects/markdown/).
 
 In order to load a local copy and create working pages, we recommend checking out [Grav's documentation](http://learn.getgrav.org/) as it will give you the information you need to understand the documentation file structure and syntax.
 
-If you would like a local copy of the documentation, you can either [download it](https://github.com/gantry/docs/archive/master.zip) or you can clone the repository by running the following command:
+If you would like a local copy of the documentation, you can either [download it](https://github.com/n8solutions/n8-gantry-docs/archive/master.zip) or you can clone the repository by running the following command:
 
 ~~~ .bash
-git clone git://github.com/gantry/docs gantry-docs
+git clone git://github.com/n8solutions/n8-gantry-docs gantry-docs
 ~~~
 
 
@@ -21,14 +21,14 @@ Contributing
 ------------
 Contributing to the documentation is very simple. Feel free to fork the repository, add your changes and give back by issuing a pull request. You can even edit the docs directly on GitHub, without having to ever download the files. Make sure to follow the conventions before issuing a pull request.
 
-You are also very welcome to make any suggestions or report any kind of problem with the documentation by opening a new [Issue](https://github.com/gantry/docs/issues/new).
+You are also very welcome to make any suggestions or report any kind of problem with the documentation by opening a new [Issue](https://github.com/n8solutions/n8-gantry-docs/issues/new).
 
 If you decide to fork for providing new content as commits. Please ensure you create a branch for your changes, before making them. This will make the process of integrating them more easier. Every change must pass through the `develop` branch first, so please ensure your pull-requests are directed to the proper branch.
 
 To get started with a local environment into the proper `develop` branch, you can run these commands:
 
 ~~~ .bash
-git clone git://github.com/gantry/docs gantry-docs
+git clone git://github.com/n8solutions/n8-gantry-docs gantry-docs
 cd gantry-docs
 git checkout -b develop origin/develop
 ~~~
@@ -39,7 +39,7 @@ Conventions
 
 This is a list of few conventions we follow when writing documentation that help keep the repository well organized and consistent. Feel free to use any other file in the docs as reference.
 
-* Every change/pull request must be applied or requested to the [develop branch](https://github.com/gantry/docs/tree/develop). Once reviewed, approved and pulled, it will get merged into the **master** branch and automatically picked up by the website.
+* Every change/pull request must be applied or requested to the [develop branch](https://github.com/n8solutions/n8-gantry-docs/tree/develop). Once reviewed, approved and pulled, it will get merged into the **master** branch and automatically picked up by the website.
 
 * Folder and file names must be written in lisp-case (dash concatenated) and always lowercase. For example, if you wanted to convert “How to Install” in lisp-case, you would name it “how-to-install”.
 
@@ -118,6 +118,7 @@ Below is a list of supported `YAML` variables that can be used and a description
     ![Administrator](../../configure/gantry-admin/admin_access_1.png) {.border .shadow}
     ```
 
-If you have any questions, feel free to open an [Issue](https://github.com/gantry/docs/issues/new).
+If you have any questions, feel free to open an [Issue](https://github.com/n8solutions/n8-gantry-docs/issues/new).
 
 _The RocketTheme Team_
+_Maintained by **N8 Solutions**_
