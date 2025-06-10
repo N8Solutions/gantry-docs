@@ -120,6 +120,6 @@ Below is a list of supported `YAML` variables that can be used and a description
 
 If you have any questions, feel free to open an [Issue](https://github.com/n8solutions/n8-gantry-docs/issues/new).
 
-_The RocketTheme Team_
+_Created by **[The RocketTheme Team](https://rockettheme.com)**_
 
 _Maintained by **[N8 Solutions](https://www.n8solutions.com)**_
