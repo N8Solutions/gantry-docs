@@ -4,8 +4,8 @@ home_url: http://gantry.org
 github:
     enabled: true
     position: top
-    tree: https://github.com/gantry/docs/blob/develop/
-    commits: https://github.com/gantry/docs/commits/develop/
+    tree: https://github.com/N8Solutions/n8-gantry-docs/blob/develop/
+    commits: https://github.com/N8Solutions/n8-gantry-docs/commits/develop/
 
 streams:
   schemes:
