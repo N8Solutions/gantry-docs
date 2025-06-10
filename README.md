@@ -122,4 +122,4 @@ If you have any questions, feel free to open an [Issue](https://github.com/n8sol
 
 _The RocketTheme Team_
 
-_Maintained by **N8 Solutions**_
+_Maintained by **[N8 Solutions](https://www.n8solutions.com)**_
