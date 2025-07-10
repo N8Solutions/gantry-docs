@@ -12,4 +12,4 @@ taxonomy:
 
 A Complete Guide to the Gantry 5 Framework
 
-With the closing of RocketTheme on June 30th, 2025, N8 Solutions has cloned the Gantry 5 documentation to maintain and update it here.
+With RocketTheme having closed on June 30th, 2025, N8 Solutions has cloned the Gantry 5 documentation to maintain and update it here.
