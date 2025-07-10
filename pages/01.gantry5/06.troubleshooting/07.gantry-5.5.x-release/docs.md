@@ -6,8 +6,6 @@ taxonomy:
     tag: [gantry5, joomla4, rockettheme]
 ---
 
-# Gantry 5.5.x Release - Important notes before you update!
-
 **TL;DR:**  
 Don’t update to Gantry 5.5.x until you have updated your RocketTheme (RT) theme to a compatible version first.  
 If you already updated to G5.5 and are stuck with it, G5.5.x has many significant bug fixes, so you should update to the latest version.
