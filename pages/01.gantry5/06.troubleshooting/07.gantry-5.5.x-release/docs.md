@@ -52,4 +52,4 @@ Before you update, please read the following important notes:
 
 ---
 
-*Document created from an Evernote web clip. Original forum post by Mark (aka MrT).*
+*Document created from an Evernote web clip of the original RocketTheme forum post by Mark (aka MrT).*
